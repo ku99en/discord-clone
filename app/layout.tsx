@@ -26,6 +26,7 @@ export default function RootLayout({
         )}>
           <ThemeProvider
             attribute="class"
+            forcedTheme='dark'
             defaultTheme="system"
             enableSystem
           >
@@ -36,3 +37,6 @@ export default function RootLayout({
     </ClerkProvider>
   )
 }
+
+
+// 
