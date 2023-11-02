@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## discord-clone
+from "Fullstack Discord Clone: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL | Full Course 2023"
+https://www.youtube.com/watch?v=ZbX4Ok9YX94
+
+
 ## Getting Started
 
 First, run the development server:
